@@ -1,0 +1,14 @@
+.thing {
+  background-color: #1d428a !important;
+  color: white !important;
+}
+
+.dropdown-item {
+  background-color: rgb(29, 66, 138) !important;
+  color: white !important;
+}
+
+.dropdown-item:hover {
+  background-color: white !important;
+  color: #1d428a !important;
+}
